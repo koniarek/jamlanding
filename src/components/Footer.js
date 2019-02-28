@@ -23,35 +23,20 @@ const Footer = class extends React.Component {
                 <div className="column is-4">
                 <section className="menu">
                     <ul className="menu-list">
-                      <li><Link to="/" className="navbar-item">Home</Link></li>
-                      <li><Link className="navbar-item" to="/">Über uns</Link></li>
-                      <li><Link className="navbar-item" to="/blog">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                    <Link className="navbar-item" to="/contact/examples">
-                      Form Examples
-                    </Link>
-                    </li>
-                    <li><a
-                      className="navbar-item"
-                      href="/admin/"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      Admin
-                    </a></li>
+	                  <Link className="navbar-item" to="/about">
+		                    Shop
+	                    </Link>
+                      <li><Link to="/" className="navbar-item">Über uns</Link></li>
+	                    <li><Link to="/about" className="navbar-item">Shop</Link></li>
                     </ul>
                   </section>
                 </div>
                 <div className="column is-4">
                 <section>
                   <ul className="menu-list">
-                  <li>
-                    <Link className="navbar-item" to="/blog">
-                      Products
-                    </Link>
+	                  <li><Link className="navbar-item" to="/blog">
+		                  Über Products
+	                  </Link>
                   </li>
                   <li>
                     <Link className="navbar-item" to="/contact">
@@ -63,7 +48,7 @@ const Footer = class extends React.Component {
                 </div>
                 <div className="column is-4 social">
 
-                  <a title="facebook" href="https://facebook.com">
+                  <a title="facebook" href="https://www.facebook.com/Ankado-249158842431091/">
                     <img
                       src={facebook}
                       alt="Facebook"

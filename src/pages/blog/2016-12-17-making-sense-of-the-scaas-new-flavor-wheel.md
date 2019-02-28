@@ -5,8 +5,7 @@ date: 2016-12-17T15:04:10.000Z
 description: |+
 
 tags:
-  - flavor
-  - tasting
+  - Kinderzimmer "EMILY"
 ---
 **Bettchen, Kommode, Bettwäsche, Wickeltisch - CHF 570**                                                       
 
@@ -30,9 +29,27 @@ tags:
 
 • Entfernbare Sprossen• Das Kinderbett ist aus Kiefernholz mit MDF-Platte hergestellt, ist von Hand dekoriert und mit ökologischen Farben gemalt.
 
+**Kommode EMILY Größe: 87 x 83 x 56 cm 236 CHF**
+
+![](/img/emily3.jpg)
+
+• Die weiße, stabile, breite Kommode besteht aus Kiefernholz und hochwertiger Möbelplatte (MDF-Platte) und ist nur mit ökologischen Farben gemalt.
+
+• Alle Rohstoffe sind antiallergisch
+
+• Die Möbel sind sehr geräumig und funktional
+
+• hat drei tiefe Schubladen
+
+• Vorderseite der obersten Schublade hat eine Stern-Dekoration
+
+• Ein zusätzlicher Vorteil ist die abnehmbare Wickeltisch-Stellage, der ohne Montage auf der Platte der Kommode montiert wird
+
 
 
 **Bettwäsche "EMILY"- CHF 110**
+
+![](/img/emily5.jpg)
 
 • Der Matratze 120x60Frottee-Fixleintuch 
 
@@ -51,6 +68,8 @@ tags:
 
 
 **Wickeltisch "EMILY" - CHF 14**
+
+![](/img/emily6.jpg)
 
 • Ein Wickeltisch wird für tägliche Pflege eines Babys verwendet
 

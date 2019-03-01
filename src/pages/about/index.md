@@ -6,6 +6,4 @@ title: Shop
 
 [ Sie können unsere Produkte auf ricardo.ch kaufen](https://www.ricardo.ch/de/my-ricardo/selling/offers)
 
-
-
-![](/img/tom5-3.jpg)
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/tom5-3.jpg)

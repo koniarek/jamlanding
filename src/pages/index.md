@@ -1,7 +1,8 @@
 ---
 templateKey: index-page
 title: Ankado
-image: /img/ankado..png
+image: >-
+  https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/ankado..png
 heading: '  '
 subheading: ' Feinste umweltfreundliche Baby & Kindermöbel & Accessoires'
 mainpitch:
@@ -18,15 +19,19 @@ mainpitch:
 description: '    '
 intro:
   blurbs:
-    - image: /img/tom.jpg
+    - image: >-
+        https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/tom5-3.jpg
       text: >-
         - Babybetten, Gitterbetten, Kastenmöbel, Stühle, Regalwechsler und
         Bettlaken.
-    - image: /img/laura1.jpg
+    - image: >-
+        https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/tom.jpg
       text: '  - Wir verwenden eine Vielzahl von Rohstoffen und Stilen und folgen die neusten Trends, um jeden Geschmack treffen zu können.'
-    - image: /img/emily7.jpg
+    - image: >-
+        https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/laura-2.jpg
       text: '  - Wir erfüllen die Erwartungen der Eltern - wir liefern Produkte mit einer viel höheren Qualität als in den Standards enthalten.'
-    - image: /img/laura-2.jpg
+    - image: >-
+        https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/laura.jpg
       text: |2
          - Kinder sind das Wichtigste für uns - vor allem ihre Sicherheit. Deshalb verwenden wir im Produktionsprozess nur Materialien, die die strengen EU-Sicherheitsstandards erfüllen (einschließlich: N N-EN 1130-1, PN-EN 1130-1 [PN-EN 1130-1: 2001, PN-EN 1130-2: 2001), die sich durch hohe Qualität und ökologische Anforderungen auszeichnen
   heading: Über Product
@@ -40,12 +45,15 @@ main:
 
   image1:
     alt: ' '
-    image: /img/laura3.jpg
+    image: >-
+      https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily7.jpg
   image2:
     alt: ' '
-    image: /img/laura.jpg
+    image: >-
+      https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/laura1.jpg
   image3:
     alt: ' '
-    image: /img/tom5-3.jpg
+    image: >-
+      https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/laura3.jpg
 ---
 

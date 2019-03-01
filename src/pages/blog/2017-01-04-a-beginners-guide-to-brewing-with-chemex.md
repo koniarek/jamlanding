@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kinderzimmer "STAN"
 date: 2017-01-04T15:04:10.000Z
-description: ' Kinderzimmer "STAN"'
+description: 'Bettchen, Kommode, Bettwäsche und Wickeltisch'
 tags:
   - Kinderzimmer "STAN"
 ---

@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Ankado
 image: /img/ankado..png
-heading: '  Ankado'
+heading: '  '
 subheading: ' Feinste umweltfreundliche Baby & Kindermöbel & Accessoires'
 mainpitch:
   title: Über uns

@@ -13,15 +13,11 @@ tags:
 
 ## 
 
-![](/img/emily7.jpg)
-
-
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily7.jpg)
 
 **Bettchen "EMILY"weiß mit Schublade. Größe: 120x60 cm CHF 210** 
 
-![](/img/emily2.jpg)
-
-
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily2.jpg)
 
 **Das Kinderbett hat:**
 
@@ -31,7 +27,7 @@ tags:
 
 **Kommode EMILY Größe: 87 x 83 x 56 cm 236 CHF**
 
-![](/img/emily3.jpg)
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily3.jpg)
 
 • Die weiße, stabile, breite Kommode besteht aus Kiefernholz und hochwertiger Möbelplatte (MDF-Platte) und ist nur mit ökologischen Farben gemalt.
 
@@ -45,11 +41,9 @@ tags:
 
 • Ein zusätzlicher Vorteil ist die abnehmbare Wickeltisch-Stellage, der ohne Montage auf der Platte der Kommode montiert wird
 
-
-
 **Bettwäsche "EMILY"- CHF 110**
 
-![](/img/emily5.jpg)
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily5.jpg)
 
 • Der Matratze 120x60Frottee-Fixleintuch 
 
@@ -65,11 +59,9 @@ tags:
 
 • Easy Wash System – sicheres waschen der Stoffe ohne Füllung 
 
-
-
 **Wickeltisch "EMILY" - CHF 14**
 
-![](/img/emily6.jpg)
+![](https://raw.githubusercontent.com/koniarek/jamlanding/master/static/img/emily6.jpg)
 
 • Ein Wickeltisch wird für tägliche Pflege eines Babys verwendet
 

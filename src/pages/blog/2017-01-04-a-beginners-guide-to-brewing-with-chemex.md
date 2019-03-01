@@ -4,26 +4,11 @@ title: Kinderzimmer "STAN"
 date: 2017-01-04T15:04:10.000Z
 description: ' Kinderzimmer "STAN"'
 tags:
-  - brewing
-  - chemex
+  - Kinderzimmer "STAN"
 ---
 CHF 399
 
-
-
-
-
-
-
-
-
-
-
 Bettchen "STAN"  weiß mit Schublade. Größe: 120x60 cm - 99CHF
-
-
-
-
 
 
 
@@ -31,23 +16,11 @@ Das Kinderbett hat:
 
 
 
-
-
-
-
 • 3-stufige Höhenverstellung - dank der dreistufigen Verstellung des Bodens kann das Kinderbett dem Alter des Kindes angepasst werden. Besonders hilfreich und praktisch in ersten Monaten nach Geburt.
 
 
 
-
-
-
-
 • Entfernbare Sprossen• Das Kinderbett ist aus Kiefernholz mit MDF-Platte hergestellt, ist von Hand dekoriert und mit ökologischen Farben gemalt.
-
-
-
-
 
 
 
@@ -71,17 +44,7 @@ Kommode "STAN"  Größe: 87 x 83 x 53 cm - CHF 176
 
 
 
-
-
-
-
 Bettwäsche STAN 110CHF
-
-
-
-
-
-
 
 • Der Matratze 120x60• Frottee-Fixleintuch 120x60
 
@@ -103,15 +66,7 @@ Bettwäsche STAN 110CHF
 
 
 
-
-
-
-
 Wickeltisch "STAN" - CHF 14
-
-
-
-
 
 
 

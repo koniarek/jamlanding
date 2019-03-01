@@ -1,5 +1,5 @@
 ---
-templateKey: shop-page
+templateKey: about-page
 title: Shop
 ---
 ### Our Shop - Coming Soon
